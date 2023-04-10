@@ -3,6 +3,8 @@ This is an index of game performance of Moore Threads GPUs. Specifically the MTT
 
 You can find all of the games and their playable status on the issues tab: https://github.com/Qiangong2/MTT-compatibility-list/issues
 
+There is no DX12 support as of yet with any Moore Threads GPU.
+
 The MTT S80's specs are:
 
 ![image](https://user-images.githubusercontent.com/16091790/230795380-a0c36c78-5190-45f2-9b36-f9d1fd8e2ad6.png)
