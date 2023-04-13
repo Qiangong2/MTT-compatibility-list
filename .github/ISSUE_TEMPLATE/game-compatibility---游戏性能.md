@@ -28,4 +28,6 @@ assignees: ''
 **CPU**:
 **RAM**:
 
+#### What graphics settings were used? / 什么图形设置？
+
 #### (Optional) Which game launcher are you running the game from? / 你从哪个游戏启动器运行游戏？
