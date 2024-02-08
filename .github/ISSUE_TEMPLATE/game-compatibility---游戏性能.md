@@ -20,6 +20,7 @@ assignees: ''
 #### Which GPU was tested? / 测试的是哪块显卡？
 - [ ] MTT S80
 - [ ] MTT S50
+- [ ] MTT S70
 
 #### Which Driver version was tested? / 测试的是哪个驱动版本？
 
