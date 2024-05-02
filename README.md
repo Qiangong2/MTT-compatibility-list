@@ -1,6 +1,8 @@
 # Moore Threads Compatibility List
 This is an index of game performance of Moore Threads GPUs. Specifically the MTT S80
 
+You can find the MUSA SDK here under the releases tab
+
 You can find all of the games and their playable status on the issues tab: https://github.com/Qiangong2/MTT-compatibility-list/issues
 
 There is no DX12 support as of yet with any Moore Threads GPU. So any DX12 listed games in the Issues tab will not be updated until it is added.
